@@ -1,4 +1,4 @@
-# printa " INSTALL TOOLS "
+# print " INSTALL TOOLS "
 $ pkg update && upgrade
 
 $ pkg install python2
