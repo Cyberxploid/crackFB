@@ -18,9 +18,21 @@ $ pip2 install colorama
 $ pip2 install jq
 
 $ git clone https://github.com/mrjeeck/crackFB
+
 $ cd crackFB
 
 
 
 $ python2 crackFB. py
 
+# MENU TOOLS 
+[1] Crack Dari Teman/Public
+
+ [2] Lihat Hasil Crack Anda    
+ 
+ [3] Seting2 User-Agent
+ 
+ [0] Keluar + Hapus Token
+ 
+
+ [JECK] Pilih =>
