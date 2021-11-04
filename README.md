@@ -36,3 +36,20 @@ $ python2 crackFB. py
  
 
  [JECK] Pilih =>
+ 
+ # MENU USERRAGENT
+ 
+ [ Pilih User-Agent Sesui Hp ]
+
+ [1] Xiaomi
+ [2] Samsung
+ [3] Nokia
+ [4] Asus
+ [5] Huawei
+ [6] Oppo
+ [7] U-A random
+ [8] User-Agent Manual
+
+ [EZAA] Pilih Bangke :
+ 
+ # SELAMAT MENGGUNAKAN 
