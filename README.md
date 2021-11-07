@@ -15,7 +15,6 @@ $ pip2 install mechanize
 
 $ pip2 install colorama
 
-$ pip2 install jq
 
 $ git clone https://github.com/mrjeeck/crackFB
 
