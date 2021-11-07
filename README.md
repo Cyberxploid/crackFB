@@ -22,7 +22,7 @@ $ cd crackFB
 
 
 
-$ python2 crackFB. py
+$ python2 crackFB.py
 
 # MENU TOOLS 
 [1] Crack Dari Teman/Public
